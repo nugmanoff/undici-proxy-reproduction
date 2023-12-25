@@ -1,0 +1,15 @@
+{
+  "name": "undici-proxy-reproduction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "https-proxy-agent": "^7.0.2",
+    "node-fetch": "^3.3.2",
+    "undici": "^6.2.1"
+  }
+}
